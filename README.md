@@ -15,3 +15,5 @@ Improvments include:
 -A concise title that is optimized for search engines.
 
 -Appropriate comments of functions, and comment instructions for adding additional content in the future.
+
+![image](https://user-images.githubusercontent.com/96699842/153731743-5b208301-bd52-4e0a-b176-0a3568eb0e95.png)
