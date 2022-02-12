@@ -19,3 +19,7 @@ Improvments include:
 link- https://lindelldn.github.io/firstchallenge/
 
 ![image](https://user-images.githubusercontent.com/96699842/153731743-5b208301-bd52-4e0a-b176-0a3568eb0e95.png)
+
+****earlier commits to this project can be found at this link ****
+https://github.com/LindellDN/week1challenge
+- there was an error in file pathing that wouldnt allow images to load without creating a new repository altogether. 
