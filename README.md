@@ -14,4 +14,4 @@ Improvments include:
 
 -A concise title that is optimized for search engines.
 
--Appropriate comments of functions, and comment instructions for adding additional content in the futur
+-Appropriate comments of functions, and comment instructions for adding additional content in the future.
